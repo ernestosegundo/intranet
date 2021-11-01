@@ -1,4 +1,4 @@
-# intranetpeam
+# Intranet
 Intranet del Proyecto Especial Alto Mayo
 
 ### Descripción del proyecto
