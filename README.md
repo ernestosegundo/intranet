@@ -16,5 +16,3 @@ Los recursos que se consideran son los siguientes:
 * Lista de normatividad directivas internas en materia de tecnologías de información
 
 La intranet es un punto de acceso único y centralizado a la mesa de servicios de tecnologías de información, en la que se puede reportar una incidencia o solicitud pertinente a alguno de los servicios de tecnologías de información.
-
-### Informática del Proyecto Especial Alto Mayo
