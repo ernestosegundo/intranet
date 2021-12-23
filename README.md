@@ -1,8 +1,8 @@
 # Intranet
-Intranet del Proyecto Especial Alto Mayo
+Intranet
 
 ### Descripción del proyecto
-La intranet del Proyecto Especial Alto Mayo es una herramienta de comunicación entre el área de Informática y los usuarios de tecnologías de información de la institución.
+Intranet es una herramienta de comunicación entre el área de Informática y los usuarios de tecnologías de información.
 
 En este espacio se tiene el *catálogo de servicios de tecnologías de información*, en el que se listan, describen y detallan todos los servicios de tecnologías de información que se brindan, definiendo su alcance, actores, entre otros.
 
